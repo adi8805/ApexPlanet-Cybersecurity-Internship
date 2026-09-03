@@ -1,9 +1,15 @@
-![[netcat.png]]# Wireshark
-![[wireshark.png]]
-# Nmap
-![[nmap.png]]
-# Burpsuite
-![[burpsuite.png]]
+# Wireshark
 
-# netcat
-![[netcat.png]]
+![Wireshark](images/wireshark.png)
+
+# Nmap
+
+![Nmap](images/nmap.png)
+
+# Burp Suite
+
+![Burp Suite](images/burpsuite.png)
+
+# Netcat
+
+![Netcat](images/netcat.png)
